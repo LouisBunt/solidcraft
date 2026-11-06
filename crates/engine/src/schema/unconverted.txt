@@ -21,10 +21,6 @@ doc.open
 doc.recover
 doc.recovery_discard
 doc.recovery_list
-explode.create
-explode.delete
-explode.list
-explode.show
 face.delete
 file.export
 file.export_view_dxf
