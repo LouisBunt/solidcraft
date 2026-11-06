@@ -127,10 +127,8 @@ sketch.insert_dxf
 sketch.insert_svg
 sketch.line
 sketch.line.midpoint
-sketch.line3d
 sketch.mirror
 sketch.move
-sketch.move3d
 sketch.move_point
 sketch.offset
 sketch.offset.break
@@ -138,7 +136,6 @@ sketch.options
 sketch.pattern.circular
 sketch.pattern.rectangular
 sketch.point
-sketch.point3d
 sketch.polygon.circumscribed
 sketch.polygon.edge
 sketch.polygon.inscribed
@@ -156,7 +153,6 @@ sketch.solve
 sketch.spline.control_point
 sketch.spline.control_point_5
 sketch.spline.fit_point
-sketch.spline3d
 sketch.text
 sketch.trim
 sketch.trim.path
