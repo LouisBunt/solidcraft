@@ -119,12 +119,9 @@ sketch.drag_end
 sketch.draw.dimensioned
 sketch.edit_text
 sketch.ellipse
-sketch.export_dxf
 sketch.extend
 sketch.fillet
 sketch.infinite
-sketch.insert_dxf
-sketch.insert_svg
 sketch.line
 sketch.line.midpoint
 sketch.mirror
