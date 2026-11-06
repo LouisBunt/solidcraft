@@ -120,12 +120,8 @@ sketch.arc.three_point
 sketch.auto_constrain
 sketch.auto_constrain_from_datum
 sketch.auto_project
-sketch.break
 sketch.break_link
 sketch.chain
-sketch.chamfer.distance_angle
-sketch.chamfer.equal_distance
-sketch.chamfer.two_distance
 sketch.circle.center
 sketch.circle.three_point
 sketch.circle.two_point
@@ -141,8 +137,6 @@ sketch.drag
 sketch.drag_end
 sketch.draw.dimensioned
 sketch.export_dxf
-sketch.extend
-sketch.fillet
 sketch.finish_auto_constrain
 sketch.fit_curves_to_section
 sketch.glyphs
@@ -155,15 +149,9 @@ sketch.intersection_curve
 sketch.isoparametric_curve
 sketch.line
 sketch.line3d
-sketch.mirror
-sketch.move
 sketch.move3d
 sketch.move_point
-sketch.offset
-sketch.offset.break
 sketch.options
-sketch.pattern.circular
-sketch.pattern.rectangular
 sketch.point
 sketch.point3d
 sketch.polygon.circumscribed
@@ -176,7 +164,6 @@ sketch.rectangle.rounded
 sketch.rectangle.three_point
 sketch.rectangle.two_point
 sketch.redefine
-sketch.scale
 sketch.slot.center_to_center
 sketch.slot.overall
 sketch.snap
@@ -184,8 +171,6 @@ sketch.solve
 sketch.spline3d
 sketch.spun_profile
 sketch.toggle_driven
-sketch.trim
-sketch.trim.path
 solid.align
 solid.boundary_fill
 solid.chamfer
